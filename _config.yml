@@ -18,3 +18,17 @@ url: "https://lucasandxueer.github.io" # the base hostname & protocol for your s
 
 # Build settings
 markdown: kramdown
+collections: 
+     musics:
+        output: true
+        
+     albums:
+        output: true
+        
+     videos:
+        output: true
+        
+
+#gems: [jekyll-paginate]
+#paginate: 5
+#paginate_path: "/blog/page:num/" 
