@@ -1,0 +1,37 @@
+.site-header {
+  border: 0;
+  .wrapper {
+    padding: 50px 0;
+    text-align: center;
+    @include media-query($on-palm) {
+      padding: 20px 0;
+    }
+  }
+}
+.site-title {
+  float: none;
+  font-family: $base-font-family;
+  font-weight: 900;
+  font-size: 35px;
+  color: $grey-color-dark;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  @include media-query($on-palm) {
+    font-size: 30px;
+  }
+}
+
+.site-subtitle{
+  margin-top: 30px;
+  span {
+    display: block;
+  }
+}
+.site-subtitle-quote {
+  font-family: $base-font-family;
+  font-size: 18px;
+  font-weight: 400;
+  @include media-query($on-palm) {
+    font-size: 16px;
+  }
+}

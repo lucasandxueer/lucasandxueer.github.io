@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700");
 /**
  * Reset some basic elements
  */
@@ -11,9 +12,9 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
-  background-color: #fdfdfd;
+  font: 400 16px/1.5 "Lora", Helvetica, Arial, sans-serif;
+  color: #B9D6F2;
+  background-color: #121420;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -24,9 +25,9 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
+  margin-bottom: 15px; }
+
 .highlight {
   margin-bottom: 15px; }
 
@@ -66,20 +67,20 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #14BDEB;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #0e84a5; }
   a:hover {
-    color: #111;
+    color: #B9D6F2;
     text-decoration: underline; }
 
 /**
  * Blockquotes
  */
 blockquote {
-  color: #828282;
-  border-left: 4px solid #e8e8e8;
+  color: #B9D6F2;
+  border-left: 4px solid white;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -93,7 +94,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #e8e8e8;
+  border: 1px solid white;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -142,14 +143,14 @@ pre {
   height: 16px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #828282; }
+    fill: #B9D6F2; }
 
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid #424242;
-  border-bottom: 1px solid #e8e8e8;
+  border-top: 5px solid #8ebdea;
+  border-bottom: 1px solid white;
   min-height: 56px;
   position: relative; }
 
@@ -161,7 +162,7 @@ pre {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #424242; }
+    color: #8ebdea; }
 
 .site-nav {
   float: right;
@@ -169,7 +170,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #B9D6F2;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -178,8 +179,8 @@ pre {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #fdfdfd;
-      border: 1px solid #e8e8e8;
+      background-color: #121420;
+      border: 1px solid white;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
@@ -194,7 +195,7 @@ pre {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #424242; }
+            fill: #8ebdea; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -212,7 +213,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #e8e8e8;
+  border-top: 1px solid white;
   padding: 30px 0; }
 
 .footer-heading {
@@ -226,7 +227,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #828282;
+  color: #B9D6F2;
   margin-left: -15px; }
 
 .footer-col {
@@ -277,7 +278,7 @@ pre {
 
 .post-meta {
   font-size: 14px;
-  color: #828282; }
+  color: #B9D6F2; }
 
 .post-link {
   display: block;
@@ -455,3 +456,37 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.site-header {
+  border: 0; }
+  .site-header .wrapper {
+    padding: 50px 0;
+    text-align: center; }
+    @media screen and (max-width: 600px) {
+      .site-header .wrapper {
+        padding: 20px 0; } }
+
+.site-title {
+  float: none;
+  font-family: "Lora", Helvetica, Arial, sans-serif;
+  font-weight: 900;
+  font-size: 35px;
+  color: #8ebdea;
+  text-transform: uppercase;
+  letter-spacing: 1px; }
+  @media screen and (max-width: 600px) {
+    .site-title {
+      font-size: 30px; } }
+
+.site-subtitle {
+  margin-top: 30px; }
+  .site-subtitle span {
+    display: block; }
+
+.site-subtitle-quote {
+  font-family: "Lora", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 400; }
+  @media screen and (max-width: 600px) {
+    .site-subtitle-quote {
+      font-size: 16px; } }
