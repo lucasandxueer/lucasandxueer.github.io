@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>Lucas and Xueer</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Jul 2016 15:44:20 -0400</pubDate>
-    <lastBuildDate>Sun, 10 Jul 2016 15:44:20 -0400</lastBuildDate>
+    <link>https://lucasandxueer.github.io/</link>
+    <atom:link href="https://lucasandxueer.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Jul 2016 16:07:02 -0400</pubDate>
+    <lastBuildDate>Sun, 10 Jul 2016 16:07:02 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sun, 10 Jul 2016 13:48:10 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/07/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/07/10/welcome-to-jekyll.html</guid>
+        <link>https://lucasandxueer.github.io/jekyll/update/2016/07/10/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://lucasandxueer.github.io/jekyll/update/2016/07/10/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -56,8 +56,8 @@
 
 </description>
         <pubDate>Sun, 10 Jul 2016 13:48:10 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/07/10/lucas-is-cute.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/07/10/lucas-is-cute.html</guid>
+        <link>https://lucasandxueer.github.io/jekyll/update/2016/07/10/lucas-is-cute.html</link>
+        <guid isPermaLink="true">https://lucasandxueer.github.io/jekyll/update/2016/07/10/lucas-is-cute.html</guid>
         
         
         <category>jekyll</category>
@@ -72,12 +72,12 @@
 Here is my &lt;a href=&quot;http://www4.ncsu.edu/~lrrumney/&quot;&gt;Personal Website&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here is a picture of an art that I did
-&lt;img src=&quot;http://yourdomain.com/assets/images/lucas_minimalist.jpeg&quot; alt=&quot;My art!&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://lucasandxueer.github.io/assets/images/lucas_minimalist.jpg&quot; alt=&quot;My art!&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 10 Jul 2016 13:48:10 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/07/10/lucas-about-me.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/07/10/lucas-about-me.html</guid>
+        <link>https://lucasandxueer.github.io/jekyll/update/2016/07/10/lucas-about-me.html</link>
+        <guid isPermaLink="true">https://lucasandxueer.github.io/jekyll/update/2016/07/10/lucas-about-me.html</guid>
         
         
         <category>jekyll</category>

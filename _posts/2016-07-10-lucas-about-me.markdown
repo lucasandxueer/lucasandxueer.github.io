@@ -8,7 +8,7 @@ Hello, my name is Lucas.
 Here is my [Personal Website][personal-website].
 
 Here is a picture of an art that I did
-![My art!]({{ site.url }}/assets/images/lucas_minimalist.jpeg)
+![My art!]({{site.url}}/assets/images/lucas_minimalist.jpg)
 
 
 [personal-website]: http://www4.ncsu.edu/~lrrumney/
