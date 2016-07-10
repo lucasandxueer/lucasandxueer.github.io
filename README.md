@@ -1,3 +1,3 @@
-# lucasandxueer.github.io
-Lucas and Xueer's travel blog!
+# Lucas and Xueer's Travel Blog!
+Please visit the site at https://lucasandxueer.github.io/
 
