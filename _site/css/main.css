@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700");
 /**
  * Reset some basic elements
  */
@@ -11,9 +12,9 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 400 16px/1.5 "Lora", Helvetica, Arial, sans-serif;
   color: #B9D6F2;
-  background-color: #0C0E16;
+  background-color: #121420;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -24,9 +25,9 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure {
+  margin-bottom: 15px; }
+
 .highlight {
   margin-bottom: 15px; }
 
@@ -178,7 +179,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #0C0E16;
+      background-color: #121420;
       border: 1px solid white;
       border-radius: 5px;
       text-align: right; }
@@ -455,3 +456,37 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.site-header {
+  border: 0; }
+  .site-header .wrapper {
+    padding: 50px 0;
+    text-align: center; }
+    @media screen and (max-width: 600px) {
+      .site-header .wrapper {
+        padding: 20px 0; } }
+
+.site-title {
+  float: none;
+  font-family: "Lora", Helvetica, Arial, sans-serif;
+  font-weight: 900;
+  font-size: 35px;
+  color: #8ebdea;
+  text-transform: uppercase;
+  letter-spacing: 1px; }
+  @media screen and (max-width: 600px) {
+    .site-title {
+      font-size: 30px; } }
+
+.site-subtitle {
+  margin-top: 30px; }
+  .site-subtitle span {
+    display: block; }
+
+.site-subtitle-quote {
+  font-family: "Lora", Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  font-weight: 400; }
+  @media screen and (max-width: 600px) {
+    .site-subtitle-quote {
+      font-size: 16px; } }

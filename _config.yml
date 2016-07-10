@@ -7,13 +7,14 @@
 
 # Site settings
 title: Lucas and Xueer
-email: your-email@domain.com
+subtitle-quote: "Traveling the World, Together."
+
 description: > # this means to ignore newlines until "baseurl:"
-  This is our awesome site decription.
+  This is a travel blog describing the adventures of Lucas and Xueer
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lucasandxueer.github.io" # the base hostname & protocol for your site
 
-github_username:  lucasandxueer
 
 # Build settings
 markdown: kramdown
