@@ -33,6 +33,7 @@
     }
 
     .page-link {
+
         color: $text-color;
         line-height: $base-line-height;
 
@@ -87,7 +88,7 @@
             &:not(:last-child) {
                 margin-right: 0;
             }
-            margin-left: 20px;
+            margin-left: 50px;
         }
     }
 }
