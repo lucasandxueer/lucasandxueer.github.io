@@ -21,8 +21,6 @@ After passing Jordan Lake, and continuing North to Carrboro, we found parking an
 The Farmer's Market was hosting a Tomato Taste Testing event, including at least twenty different kinds of tomatoes to taste or buy. Xueer's eagle eye's caught some older lady accidently spitting a tomato back into a dish, so we covertly skipped that particular opportunity. All of the tomatoes had interesting variations in texture or sweetness. Halfway through the tomato taste test, which was hosted within the shaded gazebo, cheese was provided as a taste contrast. 
 
 
-Google Street View SS?
-
 
 ## Midday
 
@@ -55,5 +53,8 @@ A pleasant, short, day-trip to Carrboro. I would like to return to explore the n
 Overall Rating: 68 bread loafs out of 100. 
 
 
-[google-maps]: https://www.google.com/maps/@35.9112051,-79.075919,3a,75y,281.48h,63.17t/data=!3m6!1e1!3m4!1sgddwORy9tks2LnALq6Q7QQ!2e0!7i13312!8i6656!6m1!1e1
 
+### Want to hear [Xueer's perspective][xueer]？ I hope you can read Chinese!
+
+[google-maps]: https://www.google.com/maps/@35.9112051,-79.075919,3a,75y,281.48h,63.17t/data=!3m6!1e1!3m4!1sgddwORy9tks2LnALq6Q7QQ!2e0!7i13312!8i6656!6m1!1e1
+[xueer]: https://lucasandxueer.github.io/lucas/2016/07/10/lucas-carrboro-trip.html
