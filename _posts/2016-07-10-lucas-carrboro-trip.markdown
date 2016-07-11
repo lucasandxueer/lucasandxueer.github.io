@@ -55,7 +55,7 @@ Overall Rating: 68 bread loafs out of 100.
 
 
 ### Want to hear [Xueer's perspective][xueer]？ 
-### I hope you can read Chinese!
+	I hope you can read Chinese!
 
 [google-maps]: https://www.google.com/maps/@35.9112051,-79.075919,3a,75y,281.48h,63.17t/data=!3m6!1e1!3m4!1sgddwORy9tks2LnALq6Q7QQ!2e0!7i13312!8i6656!6m1!1e1
 [xueer]: https://lucasandxueer.github.io/lucas/2016/07/10/lucas-carrboro-trip.html
